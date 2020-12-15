@@ -1,0 +1,79 @@
+body.TheWitcher{
+    background-color: rgb(24, 24, 24);
+    color: white;
+}
+body.Hilda{
+    background-color:  rgb(165, 131, 116);
+    color: white;
+}
+div#folha.Hilda{
+    background-color: rgb(102, 79, 69);
+}
+div#folha.TheWitcher{
+    background-color: rgb(44, 44, 44);
+}
+div#folha{
+    border-radius: 20px 20px 20px 20px;
+    width: auto;
+}
+footer.TheWitcher{
+    background-color: rgb(83, 83, 83);
+}
+footer.Hilda{
+    background-color: rgb(155, 105, 84);
+}
+footer{
+    text-align: center;
+    padding: 15px;
+    border-radius: 0px 0px 20px 20px;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+a:hover{
+    text-decoration: underline;
+}
+div#identificação{
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+h1{
+    margin: 0px;
+    margin-top: 20px;
+}
+h4{
+    margin: 0px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+img{
+    width: 100%;
+    height: 700px;
+    object-fit: cover;  
+    object-position: top;
+}
+p{
+    padding: 5px 20px 20px 20px;
+}
+hr{
+    margin: 0px;
+}
+table{
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 4px white solid;
+    border-collapse: collapse;
+    font-size: 20px;
+}
+table th{
+    border: 2px white solid;
+    padding: 5px;
+}
+h2{
+    text-align: center;
+}
